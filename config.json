@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.gntl.uk:40007",
+            "user": "gntiYP24jek7EBc6jLxrtsgkwcQXAjY8XJaTWDowZdqXffmeRpwAY6TVaAUo6HB2bab1KQztVPoKqAV1NYBFLpheeGKRTSVmjm59YJwiRoYVJ",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
+
+
